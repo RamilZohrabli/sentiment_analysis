@@ -315,13 +315,13 @@ Path: models/transformer/best_model/
 Due to GitHub file size limitations, large files are shared externally.
 
 ### Transformer Model
-- Download (OneDrive): <PUT_LINK_HERE>
+- Download (OneDrive): https://1drv.ms/u/c/082716b045201d65/IQBjlzzgLClbQZkDk3gR1_xIAd3KekuqVZkkJU3zoPkQtl4?e=y09Gsb
 
 After downloading, extract the folder to:
 models/transformer/best_model/
 
 ### (Optional) Processed Data
-- Download (OneDrive): <PUT_LINK_HERE>
+- Download (OneDrive): https://1drv.ms/u/c/082716b045201d65/IQBjlzzgLClbQZkDk3gR1_xIAd3KekuqVZkkJU3zoPkQtl4?e=y09Gsb)
 
 Expected structure after extraction:
 models/
